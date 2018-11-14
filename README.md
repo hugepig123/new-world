@@ -2,7 +2,7 @@
 exercise
 int main()
 {
-返回0；  
+return 0；  
 
 
 
